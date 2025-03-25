@@ -18,3 +18,7 @@ n= int(input("Enter the given number:"))
 for i in range(Low,Up+1):
     if(i%n ==0):
         print(i)
+. 
+. 
+. 
+. 
