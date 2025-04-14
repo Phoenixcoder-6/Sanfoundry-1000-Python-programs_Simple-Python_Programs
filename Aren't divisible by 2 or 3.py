@@ -15,3 +15,10 @@ for i in range(1,51):
         continue 
     else: 
         print(i) 
+
+.
+.
+
+.
+.
+
