@@ -54,3 +54,7 @@ if __name__ == "__main__":
         print("The data of the k-th node from the end is:", result)
         
         t -= 1
+        .
+        .
+        .
+        
