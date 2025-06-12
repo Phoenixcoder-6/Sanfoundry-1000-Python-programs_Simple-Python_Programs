@@ -14,3 +14,6 @@ if (n<0):
     print("The number is a negative!!")
 else:
     print("The number is positive!!")
+    . 
+    . 
+    
